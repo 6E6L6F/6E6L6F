@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm E | L F</h1>
 <h3 align="center">A Python,Golang,Php Developer Form Iran,Kashan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect to me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/e_l_f_6_6_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e_l_f_6_6_6" height="30" width="40" /></a>
 <a href="https://instagram.com/e_l_f_6_6_6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_l_f_6_6_6" height="30" width="40" /></a>
